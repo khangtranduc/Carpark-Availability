@@ -2,6 +2,7 @@ import pandas as pd
 import numpy as np
 from arraylist import arraylist
 import requests
+import os
 from datetime import datetime, timedelta
 
 def fetch(d: datetime):
@@ -12,7 +13,7 @@ def fetch(d: datetime):
     return fetch(d)
   json_data = response.json()
   print (response)
-  if response.status_code == 504 or response.status_code == 500:
+  if response.status_code == 504 or response.status_code == 500 or response.status_code == 502:
     return fetch(d)
 
   carpark_data = json_data['items'][0]['carpark_data']
@@ -36,8 +37,6 @@ def span(start: datetime, ran: timedelta, incre: timedelta):
     csv_l = np.vstack((csv_l, a_l))
   return csv_l[1:]
  
-
-
 def stream(start: datetime, dend: timedelta, inte: timedelta):
   tstream = datetime.now()
   end = start - dend
@@ -52,14 +51,19 @@ def stream(start: datetime, dend: timedelta, inte: timedelta):
       df.to_csv(path_or_buf=csv_file)
   print ('--------- stream time:  %s --------' % (datetime.now() - tstream))
 
+import os
 
+def newest(path):
+  files = os.listdir(path)
+  paths = [os.path.join(path, basename) for basename in files]
+  base=os.path.basename(max(paths, key=os.path.getctime))
+  return os.path.splitext(base)[0]
 
 if __name__ == "__main__":
-  # t1 = datetime.now()
-  time = input('Enter time: ')
-  t1 = datetime.strptime(time, '%Y-%m-%d=%H+%M+%S')
-  stream(t1, timedelta(days = 7), timedelta(days = 1))
-  # for i in range(1000):
-  #   print(i)
-  #   fetch(t1 - timedelta(minutes=i))
-  print ((datetime.now() - t1)/7)
+  while True:
+    time = newest(f'D:\ARP\data')
+    # time = input('Enter time: ')
+    t1 = datetime.strptime(time, '%Y-%m-%d=%H+%M+%S')
+    stream(t1, timedelta(days = 3), timedelta(days = 1))
+    print ((datetime.now() - t1))
+    time.sleep(480)
