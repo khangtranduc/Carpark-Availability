@@ -63,6 +63,7 @@ if __name__ == "__main__":
   while True:
     time = newest(f'D:\ARP\data')
     # time = input('Enter time: ')
+    print (f'Getting date: {time}')
     t1 = datetime.strptime(time, '%Y-%m-%d=%H+%M+%S')
     stream(t1, timedelta(days = 3), timedelta(days = 1))
     print ((datetime.now() - t1))
