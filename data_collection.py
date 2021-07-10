@@ -3,6 +3,7 @@ import numpy as np
 from arraylist import arraylist
 import requests
 import os
+import time
 from datetime import datetime, timedelta
 
 def fetch(d: datetime):
@@ -44,12 +45,12 @@ def stream(start: datetime, dend: timedelta, inte: timedelta):
   while t >= end:
     tspan = datetime.now()
     arr = span(t, inte, timedelta(minutes = 5))
-    print ('--------- Span time:  %s --------' % (datetime.now() - tspan))
+    print ('---------------------- Span time:  %s ---------------------' % (datetime.now() - tspan))
     df = pd.DataFrame(arr, columns=['number','time','total', 'available'])
     t -= inte
     with open(f'D:/ARP/data/{t.strftime("%Y-%m-%d=%H+%M+%S")}.csv', 'w') as csv_file:
       df.to_csv(path_or_buf=csv_file)
-  print ('--------- stream time:  %s --------' % (datetime.now() - tstream))
+  print ('----------------------- stream time:  %s ------------------' % (datetime.now() - tstream))
 
 import os
 
@@ -61,10 +62,11 @@ def newest(path):
 
 if __name__ == "__main__":
   while True:
-    time = newest(f'D:\ARP\data')
+    print(datetime.now)
+    dateti = newest(f'D:\ARP\data')
     # time = input('Enter time: ')
-    print (f'Getting date: {time}')
-    t1 = datetime.strptime(time, '%Y-%m-%d=%H+%M+%S')
+    print (f'Getting date: {dateti}')
+    t1 = datetime.strptime(dateti, '%Y-%m-%d=%H+%M+%S')
     stream(t1, timedelta(days = 3), timedelta(days = 1))
-    print ((datetime.now() - t1))
     time.sleep(480)
+    print(datetime.now)
