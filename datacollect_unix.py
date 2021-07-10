@@ -48,10 +48,9 @@ def stream(start: datetime, dend: timedelta, inte: timedelta):
     print ('--------- Span time:  %s --------' % (datetime.now() - tspan))
     df = pd.DataFrame(arr, columns=['number','time','total', 'available'])
     t -= inte
-    with open(f'D:/ARP/data/{t.strftime("%Y-%m-%d=%H+%M+%S")}.csv', 'w') as csv_file:
+    with open(f'/mnt/d/ARP/data/{t.strftime("%Y-%m-%d=%H+%M+%S")}.csv', 'w') as csv_file:
       df.to_csv(path_or_buf=csv_file)
   print ('--------- stream time:  %s --------' % (datetime.now() - tstream))
-
 
 
 if __name__ == "__main__":
