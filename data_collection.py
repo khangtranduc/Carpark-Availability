@@ -3,7 +3,6 @@ import numpy as np
 from arraylist import arraylist
 import requests
 import os
-import time
 from datetime import datetime, timedelta
 
 def fetch(d: datetime):
