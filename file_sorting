@@ -1,0 +1,15 @@
+files = glob.glob("data_2021/*.csv")
+
+df = pd.DataFrame()
+for f in files:
+    csv = pd.read_csv(f)
+    df = df.append(csv)
+    
+df = df.loc[:, ~df.columns.str.contains('^Unnamed')]
+
+date=df.time.str.split(' ').str.get(0)
+dates = date.unique()
+for d in dates:
+    a = df[df.time.str.split(' ').str.get(0)==d]
+    a = a.drop_duplicates()
+    a.to_csv(r'results/'+d+'.csv',index=False)
