@@ -19,7 +19,7 @@ def fetch(d: datetime):
 
   if not json_data['items']:
     print (f'-------------- Empty list at : {d[0]} --------------')
-    d[0] -= timedelta(minutes = 2)
+    d[0] -= timedelta(minutes = 4)
     return fetch(d)
 
   carpark_data = json_data['items'][0]['carpark_data']
@@ -62,13 +62,13 @@ def newest(path):
 
 if __name__ == "__main__":
   # while True:
-    # dateti = newest(f'D:\ARP\data')
+    dateti = newest(f'D:\ARP\data')
     # time = input('Enter time: ')
-    # print (f'Getting date: {dateti}')
+    print (f'Getting date: <<< {dateti} >>> data')
     print(datetime.now())
     # 2021-05-08=02+29+53
-    t1 = datetime.strptime('2021-06-30=11+34+53', '%Y-%m-%d=%H+%M+%S')
-    stream(t1, timedelta(days = 2), timedelta(days = 1))
+    t1 = datetime.strptime(dateti, '%Y-%m-%d=%H+%M+%S')
+    stream(t1, timedelta(days = 3), timedelta(days = 1))
     print(datetime.now())
-    time.sleep(790)
-    print(datetime.now())
+    # time.sleep(790)
+    # print(datetime.now())
