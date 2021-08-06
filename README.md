@@ -11,8 +11,8 @@ The API can best receive 4 days of data in a row
 the next day there will be too much timeout
 Better set sleep time of 8 mins in between calls for better runtime
 
-eg: 	1st day -- 5 mins\n
-	2st day -- 5 mins\n
-	3rd day -- 7 mins\n
-	4th day -- 8 mins\n
-	5th day -- 15 mins\n
+eg: 	1st day -- 5 mins<br />
+	2st day -- 5 mins<br />
+	3rd day -- 7 mins<br />
+	4th day -- 8 mins<br />
+	5th day -- 15 mins<br />
