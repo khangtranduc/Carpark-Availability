@@ -1,8 +1,8 @@
 import pandas as pd
 import os, glob
 
-dir = f'D:/ARP/VISUALISATION/Testcode/test_source/year'
-output = f'{dir}/month'
+dir = f'D:/ARP/VISUALISATION/Testcode/test_source/year' ## take output file from merge_all.py
+output = f'{dir}/calsummonth/'
 
 if not os.path.isdir(output):
     os.mkdir(output)
@@ -17,4 +17,4 @@ for f in all_files:
     df = df.groupby(df['period'], as_index=False).sum()
     df['avail_percent'] = round((df['available']/df['total']), 3) ## round up to 3dp
     df.reset_index(drop=True, inplace=True)
-    df.to_csv(f'{output}/{f}trans_s_pm_a.csv', index = False) ## transformed - sum - per month - all
+    df.to_csv(f'{output}{f}trans_s_pm_a.csv', index = False) ## transformed - sum - per month - all

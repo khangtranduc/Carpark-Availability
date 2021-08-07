@@ -2,7 +2,7 @@
 import glob, os
 import pandas as pd
 
-dir = f'D:/ARP/data_2018/temp/'
+dir = f'D:/ARP/data_2018/temp/' ## take output files from calmeanday.py
 output = f'{dir}/../transform/'
 if not os.path.isdir(output):
     os.mkdir(output)
