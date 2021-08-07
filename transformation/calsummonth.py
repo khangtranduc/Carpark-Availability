@@ -17,4 +17,4 @@ for f in all_files:
     df = df.groupby(df['period'], as_index=False).sum()
     df['avail_percent'] = round((df['available']/df['total']), 3) ## round up to 3dp
     df.reset_index(drop=True, inplace=True)
-    df.to_csv(f'{output}/trans_s_pm_a.csv', index = False) ## transformed - sum - per month - all
+    df.to_csv(f'{output}/{f}trans_s_pm_a.csv', index = False) ## transformed - sum - per month - all
