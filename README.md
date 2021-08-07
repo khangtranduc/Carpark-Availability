@@ -24,6 +24,6 @@ trans_m_pd_pc : transformed - mean(value) - per day - per carpark
 trans_s_pm_a : transformed - sum(value) - per month - all carparks
 
 ## Scripts usage
-### calmeanday.py take processed data
-### merge_all.py takes output files from calmeanday.py
-### calsummonth.py take output file from merge_all.py
+### calmeanday.py takes processed data as input
+### merge_all.py takes output files from calmeanday.py as input
+### calsummonth.py takes output file from merge_all.py as input
