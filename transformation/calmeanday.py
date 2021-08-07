@@ -5,7 +5,7 @@ import os
 ti1 = datetime.now()
 print(ti1)
 
-dir = 'D:/ARP/data_2018/temp/'
+dir = 'D:/ARP/data_2018/temp/' ## take processed data
 output = f'{dir}/../transform/'
 if not os.path.isdir(output):
     os.mkdir(output)
