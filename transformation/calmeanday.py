@@ -5,8 +5,8 @@ import os
 ti1 = datetime.now()
 print(ti1)
 
-dir = 'D:/ARP/data_2018/temp/' ## take processed data
-output = f'{dir}/../transform/'
+dir = 'D:/ARP/data_2018/clean/'    ### take cleaned data
+output = f'{dir}/../transform/calmeanday/'
 if not os.path.isdir(output):
     os.mkdir(output)
 
@@ -45,3 +45,26 @@ for f_name in os.listdir(dir):
 
 # df.to_csv('00test_out.csv', index = False)
 print ('----------------------- Total runtime:  %s ------------------' % (datetime.now() - ti1))
+
+
+
+
+
+
+# ### grp data by month
+# for f_name in os.listdir(dir):
+#     df_tmp = pd.read_csv(dir+f_name)
+#     # group data by year
+#     df = df.drop(columns=['avail_percent'])
+#     df['date'] = pd.to_datetime(df['date'])
+#     df = df.groupby(df.date.dt.month, as_index=False).sum()
+
+#     # print(df_tmp.dtypes)
+#     df_tmp['avail_percent'] = round((df_tmp['available']/df_tmp['total']), 3)
+
+#     # add a column of date
+#     df_tmp['date'] = df.date.dt.month
+#     # reset and drop index
+#     df_tmp.reset_index(drop=True, inplace=True)
+#     #df = df_tmp if df is None else pd.concat([df,df_tmp]) #this is for extracting data from multiples files and concatenating them
+#     df_tmp.to_csv(f'{output+date}-trans_m_pd_pc.csv', index = False) 
