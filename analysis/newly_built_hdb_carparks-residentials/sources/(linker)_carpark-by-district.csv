@@ -1,0 +1,2009 @@
+,number,region,area
+0,HE12,BM,Bukit Merah
+1,HLM,OT,gay
+2,RHM,BM,Bukit Merah
+3,BM29,BM,Bukit Merah
+4,Q81,QT,Queenstown
+5,C20,CL,Clementi
+6,FR3M,BT,Bukit Timah
+7,C32,CL,Clementi
+8,C6,CL,Clementi
+9,TG2,JE,Jurong East
+10,BP1,BM,Bukit Merah
+11,TG1,JE,Jurong East
+12,TGM2,JE,Jurong East
+13,TE14,BM,Bukit Merah
+14,BM3,BM,Bukit Merah
+15,BM9,BM,Bukit Merah
+16,HG44,HG,Hougang
+17,HG64,HG,Hougang
+18,PM27,PR,Pasir Ris
+19,PM28,PR,Pasir Ris
+20,TM36,TM,Tampines
+21,TM37,TM,Tampines
+22,T50,TM,Tampines
+23,T51,TM,Tampines
+24,TM43,TM,Tampines
+25,T15,TM,Tampines
+26,T16,TM,Tampines
+27,T17,TM,Tampines
+28,T18,TM,Tampines
+29,B9,BD,Bedok
+30,B10,BD,Bedok
+31,B14,BD,Bedok
+32,WCB,RC,gay
+33,ACB,RC,gay
+34,CY,RC,gay
+35,AM46,AM,Ang Mo Kio
+36,A12,AM,Ang Mo Kio
+37,BE45,BS,Bishan
+38,BE39,BS,Bishan
+39,BE40,BS,Bishan
+40,CR29,RC,gay
+41,KLM,RC,gay
+42,SE34,SG,Serangoon
+43,KB7,KL,Kallang/Whampoa
+44,SE31,SG,Serangoon
+45,J56,JE,Jurong East
+46,J57,JE,Jurong East
+47,J57L,JE,Jurong East
+48,J33,JW,Jurong West
+49,J34,JW,Jurong West
+50,BL8,JW,Jurong West
+51,BL8,JW,Jurong West
+52,J36,JW,Jurong West
+53,J54,JW,Jurong West
+54,J55,JW,Jurong West
+55,J43,JW,Jurong West
+56,J46,JW,Jurong West
+57,KB1,KL,Kallang/Whampoa
+58,KB1,KL,Kallang/Whampoa
+59,GBM,KL,Kallang/Whampoa
+60,GBM,KL,Kallang/Whampoa
+61,SE14,SG,Serangoon
+62,SE50,SG,Serangoon
+63,J40,JW,Jurong West
+64,JM1,JW,Jurong West
+65,J32,JW,Jurong West
+66,A11,AM,Ang Mo Kio
+67,TR1,KL,Kallang/Whampoa
+68,JBM,BM,Bukit Merah
+69,TE2,BM,Bukit Merah
+70,CR31,RC,gay
+71,J1,JE,Jurong East
+72,J2,JE,Jurong East
+73,J3,JE,Jurong East
+74,T37,TM,Tampines
+75,KB3,KL,Kallang/Whampoa
+76,KBM,KL,Kallang/Whampoa
+77,J4,JE,Jurong East
+78,TGM1,JE,Jurong East
+79,TG3,JE,Jurong East
+80,TG6,JE,Jurong East
+81,TG7,JE,Jurong East
+82,CR30,RC,gay
+83,RCM,RC,gay
+84,EPM,BM,Bukit Merah
+85,TGM3,JE,Jurong East
+86,KB14,KL,Kallang/Whampoa
+87,J41,JW,Jurong West
+88,JBM2,BM,Bukit Merah
+89,J39,JW,Jurong West
+90,J52,JW,Jurong West
+91,J51,JW,Jurong West
+92,J53,JW,Jurong West
+93,T19,TM,Tampines
+94,J49,JW,Jurong West
+95,J27,JW,Jurong West
+96,TB14,BM,Bukit Merah
+97,U19,BK,Bukit Batok
+98,U6,BK,Bukit Batok
+99,U45,BK,Bukit Batok
+100,BBM7,BK,Bukit Batok
+101,BE12,BS,Bishan
+102,HG41,HG,Hougang
+103,HG43,HG,Hougang
+104,MN1,KL,Kallang/Whampoa
+105,MNRM,KL,Kallang/Whampoa
+106,MN2,KL,Kallang/Whampoa
+107,C7,CL,Clementi
+108,C17,CL,Clementi
+109,C20M,CL,Clementi
+110,T41,TM,Tampines
+111,T42,TM,Tampines
+112,TM42,TM,Tampines
+113,J48,JW,Jurong West
+114,BH1,NV,gay
+115,BH2,NV,gay
+116,BKE7,KL,Kallang/Whampoa
+117,BR5,NV,gay
+118,BRM3,NV,gay
+119,BRM4,NV,gay
+120,M16,GL,Geylang
+121,M20,GL,Geylang
+122,M35,GL,Geylang
+123,M36,GL,Geylang
+124,M37,GL,Geylang
+125,M38,GL,Geylang
+126,MM3,GL,Geylang
+127,MP12,MP,Marine Parade
+128,MP13,MP,Marine Parade
+129,MP1M,MP,Marine Parade
+130,PP1,TP,Toa Payoh
+131,PP2,TP,Toa Payoh
+132,PP3,TP,Toa Payoh
+133,PP4,TP,Toa Payoh
+134,PP5,TP,Toa Payoh
+135,TP10,TP,Toa Payoh
+136,TP14,TP,Toa Payoh
+137,TP16,TP,Toa Payoh
+138,TP17,TP,Toa Payoh
+139,TP18,TP,Toa Payoh
+140,TP2,TP,Toa Payoh
+141,TPMG,TP,Toa Payoh
+142,TP36,TP,Toa Payoh
+143,TPM4,TP,Toa Payoh
+144,TPM5,TP,Toa Payoh
+145,TPM6,TP,Toa Payoh
+146,TP27,TP,Toa Payoh
+147,TPMN,TP,Toa Payoh
+148,TPMP,TP,Toa Payoh
+149,WDB1,NV,gay
+150,Y23,YS,Yishun
+151,Y24,YS,Yishun
+152,Y56,YS,Yishun
+153,BBM1,BK,Bukit Batok
+154,BBM8,BK,Bukit Batok
+155,BJ10,BP,Bukit Panjang
+156,BJ11,BP,Bukit Panjang
+157,BJ12,BP,Bukit Panjang
+158,BJ17,BP,Bukit Panjang
+159,BJ18,BP,Bukit Panjang
+160,BJ28,BP,Bukit Panjang
+161,BJ3,BP,Bukit Panjang
+162,BJ33,BP,Bukit Panjang
+163,BJ42,BP,Bukit Panjang
+164,BJ45,BP,Bukit Panjang
+165,U48,BK,Bukit Batok
+166,U5,BK,Bukit Batok
+167,JM14,JW,Jurong West
+168,JM12,JW,Jurong West
+169,W39,WD,Woodlands
+170,PL67,PG,Punggol
+171,U9,BK,Bukit Batok
+172,U26,BK,Bukit Batok
+173,U25,BK,Bukit Batok
+174,U24T,BK,Bukit Batok
+175,U24,BK,Bukit Batok
+176,U23,BK,Bukit Batok
+177,U22,BK,Bukit Batok
+178,U21,BK,Bukit Batok
+179,U2,BK,Bukit Batok
+180,J45,JW,Jurong West
+181,TM25,TM,Tampines
+182,TM26,TM,Tampines
+183,TM27,TM,Tampines
+184,J37,JW,Jurong West
+185,BM1,BM,Bukit Merah
+186,BM2,BM,Bukit Merah
+187,BM26,BM,Bukit Merah
+188,BWM,BM,Bukit Merah
+189,TBMT,BM,Bukit Merah
+190,TPM,OT,gay
+191,U29,BK,Bukit Batok
+192,U27,BK,Bukit Batok
+193,U18,BK,Bukit Batok
+194,U30,BK,Bukit Batok
+195,TE25,BM,Bukit Merah
+196,TE3,BM,Bukit Merah
+197,TE4,BM,Bukit Merah
+198,U28,BK,Bukit Batok
+199,A15,AM,Ang Mo Kio
+200,BM28,BM,Bukit Merah
+201,BM30,BM,Bukit Merah
+202,BTM,BM,Bukit Merah
+203,BTM2,BM,Bukit Merah
+204,SAM2,QT,Queenstown
+205,TBM2,BM,Bukit Merah
+206,TJ34,JW,Jurong West
+207,U31,BK,Bukit Batok
+208,BL13,JW,Jurong West
+209,HG10,HG,Hougang
+210,W3,WD,Woodlands
+211,BJ65,BP,Bukit Panjang
+212,CK19,CK,Choa Chu Kang
+213,CK4,CK,Choa Chu Kang
+214,CK42,CK,Choa Chu Kang
+215,CK7,CK,Choa Chu Kang
+216,TW1,CK,Choa Chu Kang
+217,TW2,CK,Choa Chu Kang
+218,TW3,CK,Choa Chu Kang
+219,B16,BD,Bedok
+220,B17,BD,Bedok
+221,B20,BD,Bedok
+222,B42,BD,Bedok
+223,B45,BD,Bedok
+224,B6,BD,Bedok
+225,B63,BD,Bedok
+226,B65,BD,Bedok
+227,B7,BD,Bedok
+228,B70,BD,Bedok
+229,B71,BD,Bedok
+230,B7A,BD,Bedok
+231,B8,BD,Bedok
+232,B80,BD,Bedok
+233,B84,BD,Bedok
+234,B90,BD,Bedok
+235,CC5,BD,Bedok
+236,CC6,BD,Bedok
+237,B30,BD,Bedok
+238,B31,BD,Bedok
+239,TJ28,JW,Jurong West
+240,TJ31,JW,Jurong West
+241,TJ37,JW,Jurong West
+242,AM16,AM,Ang Mo Kio
+243,AM32,AM,Ang Mo Kio
+244,BJ2,BP,Bukit Panjang
+245,CK48,CK,Choa Chu Kang
+246,BE8,BS,Bishan
+247,SE11,SG,Serangoon
+248,SE20,SG,Serangoon
+249,SE21,SG,Serangoon
+250,SE22,SG,Serangoon
+251,SE23,SG,Serangoon
+252,SE24,SG,Serangoon
+253,SE53,SG,Serangoon
+254,FR4M,TN,gay
+255,BJ31,BP,Bukit Panjang
+256,BJ32,BP,Bukit Panjang
+257,BJ34,BP,Bukit Panjang
+258,BJ35,BP,Bukit Panjang
+259,BJ36,BP,Bukit Panjang
+260,BJ37,BP,Bukit Panjang
+261,TP31,TP,Toa Payoh
+262,BJ38,BP,Bukit Panjang
+263,BJ39,BP,Bukit Panjang
+264,BJ40,BP,Bukit Panjang
+265,CK38,CK,Choa Chu Kang
+266,A38,AM,Ang Mo Kio
+267,A43,AM,Ang Mo Kio
+268,CK8,CK,Choa Chu Kang
+269,CK8A,CK,Choa Chu Kang
+270,CK39,CK,Choa Chu Kang
+271,CK41,CK,Choa Chu Kang
+272,CK46,CK,Choa Chu Kang
+273,CK47,CK,Choa Chu Kang
+274,SE32,SG,Serangoon
+275,SE33,SG,Serangoon
+276,SE39,SG,Serangoon
+277,BJ43,BP,Bukit Panjang
+278,CK22,CK,Choa Chu Kang
+279,CK36,CK,Choa Chu Kang
+280,CK37,CK,Choa Chu Kang
+281,A25,AM,Ang Mo Kio
+282,A81,AM,Ang Mo Kio
+283,A82,AM,Ang Mo Kio
+284,A9,AM,Ang Mo Kio
+285,A98,AM,Ang Mo Kio
+286,BJ55,BP,Bukit Panjang
+287,BJ56,BP,Bukit Panjang
+288,CK44,CK,Choa Chu Kang
+289,CK45,CK,Choa Chu Kang
+290,SE35,SG,Serangoon
+291,SE38,SG,Serangoon
+292,SE40,SG,Serangoon
+293,BJ30,BP,Bukit Panjang
+294,CK16,CK,Choa Chu Kang
+295,CK49,CK,Choa Chu Kang
+296,CK50,CK,Choa Chu Kang
+297,CKT1,CK,Choa Chu Kang
+298,CK51,CK,Choa Chu Kang
+299,CK12,CK,Choa Chu Kang
+300,CK13,CK,Choa Chu Kang
+301,CK17,CK,Choa Chu Kang
+302,CK30,CK,Choa Chu Kang
+303,CK31,CK,Choa Chu Kang
+304,BJ41,BP,Bukit Panjang
+305,CK20,CK,Choa Chu Kang
+306,CK23,CK,Choa Chu Kang
+307,CK34,CK,Choa Chu Kang
+308,CKM1,CK,Choa Chu Kang
+309,BJ1,BP,Bukit Panjang
+310,BJ48,BP,Bukit Panjang
+311,CK33,CK,Choa Chu Kang
+312,A37,AM,Ang Mo Kio
+313,A39,AM,Ang Mo Kio
+314,A68,AM,Ang Mo Kio
+315,A70,AM,Ang Mo Kio
+316,A71,AM,Ang Mo Kio
+317,CK40,CK,Choa Chu Kang
+318,A40,AM,Ang Mo Kio
+319,A66,AM,Ang Mo Kio
+320,A69,AM,Ang Mo Kio
+321,A30,AM,Ang Mo Kio
+322,AM80,AM,Ang Mo Kio
+323,AM81,AM,Ang Mo Kio
+324,CC7,BD,Bedok
+325,B88,BD,Bedok
+326,B66,BD,Bedok
+327,B53,BD,Bedok
+328,B52,BD,Bedok
+329,B51,BD,Bedok
+330,B35,BD,Bedok
+331,B34,BD,Bedok
+332,B33,BD,Bedok
+333,B32,BD,Bedok
+334,KB17,KL,Kallang/Whampoa
+335,KB10,KL,Kallang/Whampoa
+336,KB11,KL,Kallang/Whampoa
+337,SD9,KL,Kallang/Whampoa
+338,W54,WD,Woodlands
+339,BE23,BS,Bishan
+340,Y52M,YS,Yishun
+341,Y52M,YS,Yishun
+342,Y9,YS,Yishun
+343,Y9,YS,Yishun
+344,Y20,YS,Yishun
+345,Y20,YS,Yishun
+346,Y10,YS,Yishun
+347,Y10,YS,Yishun
+348,PM30,PR,Pasir Ris
+349,PM30,PR,Pasir Ris
+350,PM3,PR,Pasir Ris
+351,PM3,PR,Pasir Ris
+352,TWM3,CK,Choa Chu Kang
+353,CK61,CK,Choa Chu Kang
+354,CK60,CK,Choa Chu Kang
+355,SK91,SE,Sengkang
+356,SK75,SE,Sengkang
+357,SK74,SE,Sengkang
+358,SK88,SE,Sengkang
+359,SK71,SE,Sengkang
+360,SK43,SE,Sengkang
+361,SK70,SE,Sengkang
+362,SK92,SE,Sengkang
+363,SK80,SE,Sengkang
+364,SK72,SE,Sengkang
+365,SK73,SE,Sengkang
+366,SK83,SE,Sengkang
+367,SK86,SE,Sengkang
+368,SK78,SE,Sengkang
+369,SK68,SE,Sengkang
+370,SK3,SE,Sengkang
+371,SK58,SE,Sengkang
+372,SK62,SE,Sengkang
+373,SK87,SE,Sengkang
+374,CK3A,CK,Choa Chu Kang
+375,CK3,CK,Choa Chu Kang
+376,CK55,CK,Choa Chu Kang
+377,CK29,CK,Choa Chu Kang
+378,CK28,CK,Choa Chu Kang
+379,AM22,AM,Ang Mo Kio
+380,AM20,AM,Ang Mo Kio
+381,AM18,AM,Ang Mo Kio
+382,A20,AM,Ang Mo Kio
+383,A65,AM,Ang Mo Kio
+384,A60,AM,Ang Mo Kio
+385,A50,AM,Ang Mo Kio
+386,HG22,HG,Hougang
+387,CK25,CK,Choa Chu Kang
+388,CK24,CK,Choa Chu Kang
+389,STAM,QT,Queenstown
+390,AM79,AM,Ang Mo Kio
+391,A34,AM,Ang Mo Kio
+392,AM96,AM,Ang Mo Kio
+393,A85,AM,Ang Mo Kio
+394,A72,AM,Ang Mo Kio
+395,A67,AM,Ang Mo Kio
+396,BMVM,BM,Bukit Merah
+397,HE3,BM,Bukit Merah
+398,TB2,BM,Bukit Merah
+399,JKM,OT,gay
+400,JKS,OT,gay
+401,SPM,BM,Bukit Merah
+402,FR2C,BT,Bukit Timah
+403,GM1A,QT,Queenstown
+404,AR5M,QT,Queenstown
+405,AR9,QT,Queenstown
+406,C5,CL,Clementi
+407,C9,CL,Clementi
+408,U46,BK,Bukit Batok
+409,U15,BK,Bukit Batok
+410,U3,BK,Bukit Batok
+411,U32,BK,Bukit Batok
+412,B75,BD,Bedok
+413,U38,BK,Bukit Batok
+414,U10,BK,Bukit Batok
+415,C8,CL,Clementi
+416,J60M,JW,Jurong West
+417,J38,JW,Jurong West
+418,UBKM,KL,Kallang/Whampoa
+419,UBK2,KL,Kallang/Whampoa
+420,UBK5,KL,Kallang/Whampoa
+421,U17,BK,Bukit Batok
+422,U4,BK,Bukit Batok
+423,U1,BK,Bukit Batok
+424,TGML,JE,Jurong East
+425,BRBL,RC,gay
+426,BL18,JW,Jurong West
+427,BRB1,RC,gay
+428,J61,JW,Jurong West
+429,J73,JW,Jurong West
+430,J74,JW,Jurong West
+431,U39,BK,Bukit Batok
+432,U40,BK,Bukit Batok
+433,U41,BK,Bukit Batok
+434,C3M,CL,Clementi
+435,C4M,CL,Clementi
+436,J70,JW,Jurong West
+437,J75M,JW,Jurong West
+438,JM15,JW,Jurong West
+439,JM18,JW,Jurong West
+440,C24,CL,Clementi
+441,C27,CL,Clementi
+442,KTM5,BM,Bukit Merah
+443,KTM6,BM,Bukit Merah
+444,BP2,BM,Bukit Merah
+445,BBM3,BK,Bukit Batok
+446,BBM5,BK,Bukit Batok
+447,U33,BK,Bukit Batok
+448,U34,BK,Bukit Batok
+449,J84M,JW,Jurong West
+450,J85M,JW,Jurong West
+451,Q84,QT,Queenstown
+452,Q87,QT,Queenstown
+453,Q89,QT,Queenstown
+454,BM5,BM,Bukit Merah
+455,BM5,BM,Bukit Merah
+456,TB1,BM,Bukit Merah
+457,TB3,BM,Bukit Merah
+458,TB9,BM,Bukit Merah
+459,TBC3,BM,Bukit Merah
+460,C26,CL,Clementi
+461,C25,CL,Clementi
+462,C22M,CL,Clementi
+463,JM7,JW,Jurong West
+464,JM30,JW,Jurong West
+465,J72,JW,Jurong West
+466,J69,JW,Jurong West
+467,JM23,JW,Jurong West
+468,JM19,JW,Jurong West
+469,U43,BK,Bukit Batok
+470,W21,WD,Woodlands
+471,W24,WD,Woodlands
+472,M25,GL,Geylang
+473,M3,GL,Geylang
+474,M4,GL,Geylang
+475,MM1,GL,Geylang
+476,MM2,GL,Geylang
+477,MM4,GL,Geylang
+478,UA2,TP,Toa Payoh
+479,UA3,TP,Toa Payoh
+480,UA5,TP,Toa Payoh
+481,UAM1,TP,Toa Payoh
+482,JM31,JW,Jurong West
+483,BBM9,BK,Bukit Batok
+484,C21M,CL,Clementi
+485,U13,BK,Bukit Batok
+486,C13M,CL,Clementi
+487,C12,CL,Clementi
+488,C14M,CL,Clementi
+489,C10,CL,Clementi
+490,BL10,JW,Jurong West
+491,BL19,JW,Jurong West
+492,BL3,JW,Jurong West
+493,J50,JW,Jurong West
+494,J60L,JW,Jurong West
+495,J62,JW,Jurong West
+496,J62M,JW,Jurong West
+497,J63,JW,Jurong West
+498,J65,JW,Jurong West
+499,J71,JW,Jurong West
+500,J76M,JW,Jurong West
+501,J77M,JW,Jurong West
+502,J78M,JW,Jurong West
+503,J79M,JW,Jurong West
+504,J80M,JW,Jurong West
+505,J81M,JW,Jurong West
+506,J82M,JW,Jurong West
+507,J83M,JW,Jurong West
+508,J86M,JW,Jurong West
+509,J88M,JW,Jurong West
+510,J89M,JW,Jurong West
+511,J98M,JW,Jurong West
+512,J99M,JW,Jurong West
+513,JM10,JW,Jurong West
+514,JM13,JW,Jurong West
+515,JM22,JW,Jurong West
+516,JM25,JW,Jurong West
+517,JM28,JW,Jurong West
+518,JM29,JW,Jurong West
+519,TBM3,BM,Bukit Merah
+520,TBM4,BM,Bukit Merah
+521,BJ49,BP,Bukit Panjang
+522,Y11,YS,Yishun
+523,Y11,YS,Yishun
+524,Y8,YS,Yishun
+525,Y8,YS,Yishun
+526,Y13,YS,Yishun
+527,Y13,YS,Yishun
+528,Y3,YS,Yishun
+529,Y3,YS,Yishun
+530,Y3M,YS,Yishun
+531,Y3M,YS,Yishun
+532,Y39,YS,Yishun
+533,Y39,YS,Yishun
+534,Y48,YS,Yishun
+535,Y48,YS,Yishun
+536,Y48M,YS,Yishun
+537,Y48M,YS,Yishun
+538,Y15,YS,Yishun
+539,Y15,YS,Yishun
+540,Y4,YS,Yishun
+541,Y4,YS,Yishun
+542,Y27,YS,Yishun
+543,Y27,YS,Yishun
+544,Y49,YS,Yishun
+545,Y49,YS,Yishun
+546,Y21M,YS,Yishun
+547,Y21M,YS,Yishun
+548,Y28,YS,Yishun
+549,Y28,YS,Yishun
+550,Y28M,YS,Yishun
+551,Y28M,YS,Yishun
+552,Y33,YS,Yishun
+553,Y33,YS,Yishun
+554,Y49M,YS,Yishun
+555,Y49M,YS,Yishun
+556,Y49L,YS,Yishun
+557,Y49L,YS,Yishun
+558,Y7,YS,Yishun
+559,Y7,YS,Yishun
+560,Y57,YS,Yishun
+561,Y57,YS,Yishun
+562,Y21,YS,Yishun
+563,Y21,YS,Yishun
+564,SB19,SB,Sembawang
+565,SB19,SB,Sembawang
+566,SB24,SB,Sembawang
+567,SB24,SB,Sembawang
+568,S19L,SB,Sembawang
+569,S19L,SB,Sembawang
+570,S24L,SB,Sembawang
+571,S24L,SB,Sembawang
+572,SB2,SB,Sembawang
+573,SB2,SB,Sembawang
+574,SB16,SB,Sembawang
+575,SB16,SB,Sembawang
+576,SB26,SB,Sembawang
+577,SB26,SB,Sembawang
+578,SB27,SB,Sembawang
+579,SB27,SB,Sembawang
+580,SB28,SB,Sembawang
+581,SB28,SB,Sembawang
+582,SB3,SB,Sembawang
+583,SB3,SB,Sembawang
+584,SB15,SB,Sembawang
+585,SB15,SB,Sembawang
+586,SB4,SB,Sembawang
+587,SB4,SB,Sembawang
+588,SB5,SB,Sembawang
+589,SB5,SB,Sembawang
+590,SB18,SB,Sembawang
+591,SB18,SB,Sembawang
+592,SB21,SB,Sembawang
+593,SB21,SB,Sembawang
+594,SB29,SB,Sembawang
+595,SB29,SB,Sembawang
+596,SB30,SB,Sembawang
+597,SB30,SB,Sembawang
+598,SB31,SB,Sembawang
+599,SB31,SB,Sembawang
+600,SB23,SB,Sembawang
+601,SB23,SB,Sembawang
+602,SB22,SB,Sembawang
+603,SB22,SB,Sembawang
+604,SB34,SB,Sembawang
+605,SB34,SB,Sembawang
+606,SK36,SE,Sengkang
+607,SK37,SE,Sengkang
+608,SK42,SE,Sengkang
+609,SK23,SE,Sengkang
+610,SK10,SE,Sengkang
+611,SK19,SE,Sengkang
+612,SK20,SE,Sengkang
+613,SK11,SE,Sengkang
+614,SK45,SE,Sengkang
+615,SK4,SE,Sengkang
+616,SK77,SE,Sengkang
+617,SK16,SE,Sengkang
+618,SK63,SE,Sengkang
+619,SK7,SE,Sengkang
+620,MR4,KL,Kallang/Whampoa
+621,CR7,KL,Kallang/Whampoa
+622,KB4,KL,Kallang/Whampoa
+623,JRM,KL,Kallang/Whampoa
+624,SD5,GL,Geylang
+625,KB12,KL,Kallang/Whampoa
+626,UBK4,KL,Kallang/Whampoa
+627,SD2,GL,Geylang
+628,SDM2,GL,Geylang
+629,SG3,KL,Kallang/Whampoa
+630,NBRM,KL,Kallang/Whampoa
+631,SG2,KL,Kallang/Whampoa
+632,SDM,KL,Kallang/Whampoa
+633,SD3,GL,Geylang
+634,W107,WD,Woodlands
+635,W30,WD,Woodlands
+636,W28,WD,Woodlands
+637,W44,WD,Woodlands
+638,W45,WD,Woodlands
+639,W7,WD,Woodlands
+640,W19,WD,Woodlands
+641,W780,WD,Woodlands
+642,W101,WD,Woodlands
+643,W13,WD,Woodlands
+644,W48,WD,Woodlands
+645,W102,WD,Woodlands
+646,W37,WD,Woodlands
+647,W52,WD,Woodlands
+648,W64,WD,Woodlands
+649,W17,WD,Woodlands
+650,W18,WD,Woodlands
+651,W58,WD,Woodlands
+652,W5,WD,Woodlands
+653,W5M,WD,Woodlands
+654,W23,WD,Woodlands
+655,W40,WD,Woodlands
+656,W49,WD,Woodlands
+657,W50,WD,Woodlands
+658,W51,WD,Woodlands
+659,W36,WD,Woodlands
+660,W10,WD,Woodlands
+661,W6,WD,Woodlands
+662,W181,WD,Woodlands
+663,W14,WD,Woodlands
+664,PM6,PR,Pasir Ris
+665,PM6,PR,Pasir Ris
+666,PM17,PR,Pasir Ris
+667,PM17,PR,Pasir Ris
+668,PM14,PR,Pasir Ris
+669,PM14,PR,Pasir Ris
+670,PM29,PR,Pasir Ris
+671,PM29,PR,Pasir Ris
+672,PM16,PR,Pasir Ris
+673,PM16,PR,Pasir Ris
+674,PM18,PR,Pasir Ris
+675,PM18,PR,Pasir Ris
+676,PM11,PR,Pasir Ris
+677,PM11,PR,Pasir Ris
+678,PM7,PR,Pasir Ris
+679,PM7,PR,Pasir Ris
+680,PM13,PR,Pasir Ris
+681,PM13,PR,Pasir Ris
+682,PM45,PR,Pasir Ris
+683,PM45,PR,Pasir Ris
+684,PM41,PR,Pasir Ris
+685,PM41,PR,Pasir Ris
+686,PR1,PR,Pasir Ris
+687,PR1,PR,Pasir Ris
+688,PM19,PR,Pasir Ris
+689,PM19,PR,Pasir Ris
+690,PM40,PR,Pasir Ris
+691,PM40,PR,Pasir Ris
+692,PM37,PR,Pasir Ris
+693,PM37,PR,Pasir Ris
+694,PM36,PR,Pasir Ris
+695,PM36,PR,Pasir Ris
+696,SK93,SE,Sengkang
+697,SK2,SE,Sengkang
+698,SK60,SE,Sengkang
+699,SK15,SE,Sengkang
+700,SK17,SE,Sengkang
+701,SK12,SE,Sengkang
+702,W4,WD,Woodlands
+703,SK22,SE,Sengkang
+704,SK21,SE,Sengkang
+705,SK13,SE,Sengkang
+706,SK6,SE,Sengkang
+707,CK52,CK,Choa Chu Kang
+708,P1,PG,Punggol
+709,P2,PG,Punggol
+710,P3,PG,Punggol
+711,P4,PG,Punggol
+712,P5,PG,Punggol
+713,P5L,PG,Punggol
+714,P6,PG,Punggol
+715,P6L,PG,Punggol
+716,PL14,PG,Punggol
+717,PL15,PG,Punggol
+718,PL25,PG,Punggol
+719,PL29,PG,Punggol
+720,PL30,PG,Punggol
+721,PL31,PG,Punggol
+722,PL32,PG,Punggol
+723,PL33,PG,Punggol
+724,PL39,PG,Punggol
+725,PL40,PG,Punggol
+726,PL41,PG,Punggol
+727,PL42,PG,Punggol
+728,PL44,PG,Punggol
+729,PL45,PG,Punggol
+730,PL46,PG,Punggol
+731,PL48,PG,Punggol
+732,J10,JE,Jurong East
+733,J11,JE,Jurong East
+734,CK32,CK,Choa Chu Kang
+735,BJ51,BP,Bukit Panjang
+736,BJ52,BP,Bukit Panjang
+737,SK25,SE,Sengkang
+738,SK26,SE,Sengkang
+739,SK32,SE,Sengkang
+740,SK33,SE,Sengkang
+741,HG11,HG,Hougang
+742,PL68,PG,Punggol
+743,PL69,PG,Punggol
+744,MLM,QT,Queenstown
+745,CR2,KL,Kallang/Whampoa
+746,CR3,KL,Kallang/Whampoa
+747,W57,WD,Woodlands
+748,BE36,BS,Bishan
+749,BE37,BS,Bishan
+750,BE38,BS,Bishan
+751,BE42,BS,Bishan
+752,BE7,BS,Bishan
+753,SE13,SG,Serangoon
+754,SE16,SG,Serangoon
+755,SM1,BS,Bishan
+756,SM3,BS,Bishan
+757,JB3,KL,Kallang/Whampoa
+758,JB4,KL,Kallang/Whampoa
+759,K2,GL,Geylang
+760,K2,GL,Geylang
+761,K2T,GL,Geylang
+762,KM2,GL,Geylang
+763,KM3,GL,Geylang
+764,TRS,KL,Kallang/Whampoa
+765,ACM,GL,Geylang
+766,ACM,GL,Geylang
+767,GE1A,GL,Geylang
+768,GE1F,GL,Geylang
+769,GE1G,GL,Geylang
+770,GE2,GL,Geylang
+771,GE3,GL,Geylang
+772,GE5,GL,Geylang
+773,JB1,KL,Kallang/Whampoa
+774,JB2,KL,Kallang/Whampoa
+775,K7,GL,Geylang
+776,KM4,GL,Geylang
+777,LT1,BD,Bedok
+778,LT2,BD,Bedok
+779,LT3,BD,Bedok
+780,M1,GL,Geylang
+781,M32,GL,Geylang
+782,MP1,MP,Marine Parade
+783,MP17,MP,Marine Parade
+784,MP2,MP,Marine Parade
+785,MP5,MP,Marine Parade
+786,MP5M,MP,Marine Parade
+787,MP5S,MP,Marine Parade
+788,MP6,MP,Marine Parade
+789,MP7,MP,Marine Parade
+790,SK9,SE,Sengkang
+791,SK14,SE,Sengkang
+792,BE10,BS,Bishan
+793,BE11,BS,Bishan
+794,BE13,BS,Bishan
+795,BE14,BS,Bishan
+796,BE26,BS,Bishan
+797,BE27,BS,Bishan
+798,BE28,BS,Bishan
+799,BE29,BS,Bishan
+800,BE30,BS,Bishan
+801,BE31,BS,Bishan
+802,BE32,BS,Bishan
+803,BE4,BS,Bishan
+804,BE5,BS,Bishan
+805,BE6,BS,Bishan
+806,BE9,BS,Bishan
+807,CLM,QT,Queenstown
+808,BM14,BM,Bukit Merah
+809,BM19,BM,Bukit Merah
+810,BM20,BM,Bukit Merah
+811,BM4,BM,Bukit Merah
+812,BM6,BM,Bukit Merah
+813,BVM2,BM,Bukit Merah
+814,CM1,BM,Bukit Merah
+815,H12,BM,Bukit Merah
+816,H14,BM,Bukit Merah
+817,H3,BM,Bukit Merah
+818,H8,BM,Bukit Merah
+819,H8,BM,Bukit Merah
+820,HCM,BM,Bukit Merah
+821,HE1,BM,Bukit Merah
+822,HE19,BM,Bukit Merah
+823,HE24,BM,Bukit Merah
+824,HE4,BM,Bukit Merah
+825,JMB1,BM,Bukit Merah
+826,JRTM,BM,Bukit Merah
+827,KTM,BM,Bukit Merah
+828,KTM2,BM,Bukit Merah
+829,KTM3,BM,Bukit Merah
+830,KTM4,BM,Bukit Merah
+831,LBM,BM,Bukit Merah
+832,PP9T,TP,Toa Payoh
+833,RHM2,BM,Bukit Merah
+834,RHM3,BM,Bukit Merah
+835,RHM4,BM,Bukit Merah
+836,RHS,BM,Bukit Merah
+837,HG30,HG,Hougang
+838,HG31,HG,Hougang
+839,HG32,HG,Hougang
+840,HG39,HG,Hougang
+841,HG47,HG,Hougang
+842,HG48,HG,Hougang
+843,HG49,HG,Hougang
+844,HG50,HG,Hougang
+845,HG51,HG,Hougang
+846,HG52,HG,Hougang
+847,HG54,HG,Hougang
+848,HG55,HG,Hougang
+849,HG60,HG,Hougang
+850,HG61,HG,Hougang
+851,HG62,HG,Hougang
+852,HG67,HG,Hougang
+853,HG68,HG,Hougang
+854,HG69,HG,Hougang
+855,HG7,HG,Hougang
+856,HG70,HG,Hougang
+857,HG76,HG,Hougang
+858,HG77,HG,Hougang
+859,HG78,HG,Hougang
+860,HG79,HG,Hougang
+861,HG89,HG,Hougang
+862,HG94,HG,Hougang
+863,HG95,HG,Hougang
+864,HG96,HG,Hougang
+865,HG97,HG,Hougang
+866,HG99,HG,Hougang
+867,J12,JE,Jurong East
+868,J14,JE,Jurong East
+869,J15,JE,Jurong East
+870,J16,JE,Jurong East
+871,J18,JE,Jurong East
+872,J22,JE,Jurong East
+873,J23,JE,Jurong East
+874,J23M,JE,Jurong East
+875,J8,JE,Jurong East
+876,J9,JE,Jurong East
+877,J90,JE,Jurong East
+878,J91,JE,Jurong East
+879,J92,JE,Jurong East
+880,J93,JE,Jurong East
+881,J94,JE,Jurong East
+882,J95,JE,Jurong East
+883,J96,JE,Jurong East
+884,J97,JE,Jurong East
+885,BBM2,BK,Bukit Batok
+886,U12,BK,Bukit Batok
+887,CK56,CK,Choa Chu Kang
+888,CK57,CK,Choa Chu Kang
+889,U51,BK,Bukit Batok
+890,B59,BD,Bedok
+891,B60,BD,Bedok
+892,B97,BD,Bedok
+893,CC12,BD,Bedok
+894,SK39,SE,Sengkang
+895,SK81,SE,Sengkang
+896,P40L,PR,Pasir Ris
+897,P40L,PR,Pasir Ris
+898,PM10,PR,Pasir Ris
+899,PM10,PR,Pasir Ris
+900,PM25,PR,Pasir Ris
+901,PM25,PR,Pasir Ris
+902,PR7,PR,Pasir Ris
+903,PR7,PR,Pasir Ris
+904,MR5,KL,Kallang/Whampoa
+905,MR6,KL,Kallang/Whampoa
+906,MR7,KL,Kallang/Whampoa
+907,SG1,KL,Kallang/Whampoa
+908,SGLM,KL,Kallang/Whampoa
+909,W4M,WD,Woodlands
+910,W59,WD,Woodlands
+911,W554,WD,Woodlands
+912,W549,WD,Woodlands
+913,W81,WD,Woodlands
+914,SK28,SE,Sengkang
+915,W586,WD,Woodlands
+916,W588,WD,Woodlands
+917,SK29,SE,Sengkang
+918,W26,WD,Woodlands
+919,W27,WD,Woodlands
+920,PM8,PR,Pasir Ris
+921,PM8,PR,Pasir Ris
+922,PR8,PR,Pasir Ris
+923,PR8,PR,Pasir Ris
+924,SK69,SE,Sengkang
+925,AH1,NV,gay
+926,BR14,NV,gay
+927,RC1,NV,gay
+928,TP12,TP,Toa Payoh
+929,TP15,TP,Toa Payoh
+930,TP20,TP,Toa Payoh
+931,TP22,TP,Toa Payoh
+932,TP3,TP,Toa Payoh
+933,TP30,TP,Toa Payoh
+934,TP34,TP,Toa Payoh
+935,TP3A,TP,Toa Payoh
+936,TP40,TP,Toa Payoh
+937,TP41,TP,Toa Payoh
+938,TP43,TP,Toa Payoh
+939,TP48,TP,Toa Payoh
+940,TP52,TP,Toa Payoh
+941,TP53,TP,Toa Payoh
+942,TP54,TP,Toa Payoh
+943,TP60,TP,Toa Payoh
+944,TP62,TP,Toa Payoh
+945,TP63,TP,Toa Payoh
+946,TP67,TP,Toa Payoh
+947,TP7,TP,Toa Payoh
+948,TP8,TP,Toa Payoh
+949,TPB1,TP,Toa Payoh
+950,TPM2,TP,Toa Payoh
+951,TPM3,TP,Toa Payoh
+952,TPM7,TP,Toa Payoh
+953,TPM8,TP,Toa Payoh
+954,TPM9,TP,Toa Payoh
+955,TPMA,TP,Toa Payoh
+956,TPMB,TP,Toa Payoh
+957,TPMC,TP,Toa Payoh
+958,TPMD,TP,Toa Payoh
+959,TPME,TP,Toa Payoh
+960,TPMF,TP,Toa Payoh
+961,TPMH,TP,Toa Payoh
+962,TPMJ,TP,Toa Payoh
+963,TPMK,TP,Toa Payoh
+964,TPML,TP,Toa Payoh
+965,TPMM,TP,Toa Payoh
+966,SK24,SE,Sengkang
+967,SK24,SE,Sengkang
+968,HG17,HG,Hougang
+969,HG75,HG,Hougang
+970,HG86,HG,Hougang
+971,HG92,HG,Hougang
+972,Q86,QT,Queenstown
+973,Q19,QT,Queenstown
+974,MLM1,QT,Queenstown
+975,STM1,QT,Queenstown
+976,STM2,QT,Queenstown
+977,STM3,QT,Queenstown
+978,Q88,QT,Queenstown
+979,Q8,QT,Queenstown
+980,CDM,QT,Queenstown
+981,PL16,PG,Punggol
+982,PL19,PG,Punggol
+983,PL24,PG,Punggol
+984,PL38,PG,Punggol
+985,PL50,PG,Punggol
+986,PL51,PG,Punggol
+987,CK2,CK,Choa Chu Kang
+988,A28,AM,Ang Mo Kio
+989,A31,AM,Ang Mo Kio
+990,A44,AM,Ang Mo Kio
+991,A27,AM,Ang Mo Kio
+992,A75,AM,Ang Mo Kio
+993,SE41,SG,Serangoon
+994,A2,AM,Ang Mo Kio
+995,A94,AM,Ang Mo Kio
+996,HG1D,HG,Hougang
+997,CK54,CK,Choa Chu Kang
+998,HE17,BM,Bukit Merah
+999,SPS,BM,Bukit Merah
+1000,TB10,BM,Bukit Merah
+1001,TB11,BM,Bukit Merah
+1002,TB22,BM,Bukit Merah
+1003,TB23,BM,Bukit Merah
+1004,TB28,BM,Bukit Merah
+1005,TB4A,BM,Bukit Merah
+1006,TB6,BM,Bukit Merah
+1007,TB7,BM,Bukit Merah
+1008,TB8,BM,Bukit Merah
+1009,TBCM,BM,Bukit Merah
+1010,TE1,BM,Bukit Merah
+1011,YHS,OT,gay
+1012,JM5,JW,Jurong West
+1013,JM6,JW,Jurong West
+1014,JM8,JW,Jurong West
+1015,JM9,JW,Jurong West
+1016,TJ27,JW,Jurong West
+1017,TJ29,JW,Jurong West
+1018,TJ30,JW,Jurong West
+1019,TJ32,JW,Jurong West
+1020,TJ33,JW,Jurong West
+1021,TJ36,JW,Jurong West
+1022,TP4A,TP,Toa Payoh
+1023,CV1,CH,gay
+1024,CV1,CH,gay
+1025,CV3,CH,gay
+1026,CV3,CH,gay
+1027,PM32,PR,Pasir Ris
+1028,PM32,PR,Pasir Ris
+1029,PM33,PR,Pasir Ris
+1030,PM33,PR,Pasir Ris
+1031,PM34,PR,Pasir Ris
+1032,PM34,PR,Pasir Ris
+1033,Y19,YS,Yishun
+1034,Y19,YS,Yishun
+1035,Y18,YS,Yishun
+1036,Y18,YS,Yishun
+1037,Y26,YS,Yishun
+1038,Y26,YS,Yishun
+1039,S28L,SB,Sembawang
+1040,S28L,SB,Sembawang
+1041,CV2,CH,gay
+1042,CV2,CH,gay
+1043,S30L,SE,Sengkang
+1044,SK30,SE,Sengkang
+1045,SK31,SE,Sengkang
+1046,SK38,SE,Sengkang
+1047,SK59,SE,Sengkang
+1048,W79,WD,Woodlands
+1049,W80,WD,Woodlands
+1050,W87,WD,Woodlands
+1051,W88,WD,Woodlands
+1052,W92,WD,Woodlands
+1053,SK94,SE,Sengkang
+1054,SD4,GL,Geylang
+1055,PM12,PR,Pasir Ris
+1056,PM12,PR,Pasir Ris
+1057,MP3M,MP,Marine Parade
+1058,MP4M,MP,Marine Parade
+1059,PM38,PR,Pasir Ris
+1060,PM38,PR,Pasir Ris
+1061,EPL,BM,Bukit Merah
+1062,B86,BD,Bedok
+1063,MP2M,MP,Marine Parade
+1064,BE25,BS,Bishan
+1065,BE33,BS,Bishan
+1066,L1,SG,Serangoon
+1067,SE15,SG,Serangoon
+1068,SE17,SG,Serangoon
+1069,SE18,SG,Serangoon
+1070,SE19,SG,Serangoon
+1071,SE25,SG,Serangoon
+1072,SE26,SG,Serangoon
+1073,SE27,SG,Serangoon
+1074,SE28,SG,Serangoon
+1075,SE29,SG,Serangoon
+1076,SH2,BS,Bishan
+1077,W43,WD,Woodlands
+1078,HG5,HG,Hougang
+1079,W46,WD,Woodlands
+1080,TP68,TP,Toa Payoh
+1081,DUXM,OT,gay
+1082,TP49,TP,Toa Payoh
+1083,TP50,TP,Toa Payoh
+1084,SI1,TM,Tampines
+1085,SI11,TM,Tampines
+1086,SI12,TM,Tampines
+1087,SIM1,TM,Tampines
+1088,SIM2,TM,Tampines
+1089,SIM3,TM,Tampines
+1090,T34,TM,Tampines
+1091,T35,TM,Tampines
+1092,T4,TM,Tampines
+1093,T75,TM,Tampines
+1094,T80,TM,Tampines
+1095,TM11,TM,Tampines
+1096,TM12,TM,Tampines
+1097,TM13,TM,Tampines
+1098,TM14,TM,Tampines
+1099,TM17,TM,Tampines
+1100,TM18,TM,Tampines
+1101,TM21,TM,Tampines
+1102,TM22,TM,Tampines
+1103,TM28,TM,Tampines
+1104,TM29,TM,Tampines
+1105,TM3,TM,Tampines
+1106,TM30,TM,Tampines
+1107,TM31,TM,Tampines
+1108,TM32,TM,Tampines
+1109,TM4,TM,Tampines
+1110,TM49,TM,Tampines
+1111,TM5,TM,Tampines
+1112,PL23,PG,Punggol
+1113,PL27,PG,Punggol
+1114,PL34,PG,Punggol
+1115,PL35,PG,Punggol
+1116,PL37,PG,Punggol
+1117,P34L,PG,Punggol
+1118,P35L,PG,Punggol
+1119,SI2,TM,Tampines
+1120,SI4,TM,Tampines
+1121,T32,TM,Tampines
+1122,B28,BD,Bedok
+1123,SIM5,TM,Tampines
+1124,TWM1,CK,Choa Chu Kang
+1125,A52,AM,Ang Mo Kio
+1126,A53,AM,Ang Mo Kio
+1127,A54,AM,Ang Mo Kio
+1128,AM51,AM,Ang Mo Kio
+1129,B47,BD,Bedok
+1130,B48,BD,Bedok
+1131,J21,JE,Jurong East
+1132,SM9,BS,Bishan
+1133,HG2,HG,Hougang
+1134,HG2B,HG,Hougang
+1135,HG4,HG,Hougang
+1136,GSM,GL,Geylang
+1137,SK40,SE,Sengkang
+1138,SK41,SE,Sengkang
+1139,SK44,SE,Sengkang
+1140,SK48,SE,Sengkang
+1141,SK49,SE,Sengkang
+1142,SK50,SE,Sengkang
+1143,SK51,SE,Sengkang
+1144,KEM1,RC,gay
+1145,BR8,NV,gay
+1146,BR6,NV,gay
+1147,BR10,NV,gay
+1148,GSML,GL,Geylang
+1149,CK53,CK,Choa Chu Kang
+1150,HG73,HG,Hougang
+1151,W106,WD,Woodlands
+1152,W104,WD,Woodlands
+1153,W105,WD,Woodlands
+1154,CK10,CK,Choa Chu Kang
+1155,CK9,CK,Choa Chu Kang
+1156,EC2,GL,Geylang
+1157,EC3,GL,Geylang
+1158,EC4,GL,Geylang
+1159,ECM,GL,Geylang
+1160,M33,GL,Geylang
+1161,CK59,CK,Choa Chu Kang
+1162,CKM9,CK,Choa Chu Kang
+1163,W782,WD,Woodlands
+1164,SK5,SE,Sengkang
+1165,PL18,PG,Punggol
+1166,PL21,PG,Punggol
+1167,PL43,PG,Punggol
+1168,PL59,PG,Punggol
+1169,PL52,PG,Punggol
+1170,PL65,PG,Punggol
+1171,W12M,WD,Woodlands
+1172,W93,WD,Woodlands
+1173,PM26,PR,Pasir Ris
+1174,PM26,PR,Pasir Ris
+1175,BJ14,BP,Bukit Panjang
+1176,BJ15,BP,Bukit Panjang
+1177,BJ16,BP,Bukit Panjang
+1178,BJ23,BP,Bukit Panjang
+1179,BJ44,BP,Bukit Panjang
+1180,BJMP,BP,Bukit Panjang
+1181,SG4,KL,Kallang/Whampoa
+1182,Y12,YS,Yishun
+1183,Y12,YS,Yishun
+1184,EC7,GL,Geylang
+1185,Y62M,YS,Yishun
+1186,Y62M,YS,Yishun
+1187,Q68,QT,Queenstown
+1188,Q65,QT,Queenstown
+1189,SK89,SE,Sengkang
+1190,AR1M,QT,Queenstown
+1191,A35,AM,Ang Mo Kio
+1192,A45,AM,Ang Mo Kio
+1193,A48,AM,Ang Mo Kio
+1194,A64,AM,Ang Mo Kio
+1195,TB19,BM,Bukit Merah
+1196,Y5,YS,Yishun
+1197,Y5,YS,Yishun
+1198,Q77M,QT,Queenstown
+1199,Q80,QT,Queenstown
+1200,Q85,QT,Queenstown
+1201,W570,WD,Woodlands
+1202,TB17,BM,Bukit Merah
+1203,TBM5,BM,Bukit Merah
+1204,TBM6,BM,Bukit Merah
+1205,TBM7,BM,Bukit Merah
+1206,PM23,PR,Pasir Ris
+1207,PM23,PR,Pasir Ris
+1208,PR13,PR,Pasir Ris
+1209,PR13,PR,Pasir Ris
+1210,SK95,SE,Sengkang
+1211,SK90,SE,Sengkang
+1212,EC8,GL,Geylang
+1213,Y6,YS,Yishun
+1214,Y6,YS,Yishun
+1215,Y58,YS,Yishun
+1216,Y58,YS,Yishun
+1217,A87,AM,Ang Mo Kio
+1218,A41,AM,Ang Mo Kio
+1219,A42,AM,Ang Mo Kio
+1220,HG19,HG,Hougang
+1221,HG20,HG,Hougang
+1222,HG23,HG,Hougang
+1223,W82,WD,Woodlands
+1224,W95,WD,Woodlands
+1225,SB33,SB,Sembawang
+1226,SB33,SB,Sembawang
+1227,Y41,YS,Yishun
+1228,Y41,YS,Yishun
+1229,Y41M,YS,Yishun
+1230,Y41M,YS,Yishun
+1231,J6,JE,Jurong East
+1232,J7,JE,Jurong East
+1233,W85,WD,Woodlands
+1234,SK85,SE,Sengkang
+1235,SI10,TM,Tampines
+1236,SI6,TM,Tampines
+1237,SI7,TM,Tampines
+1238,SI8,TM,Tampines
+1239,SI9,TM,Tampines
+1240,T20,TM,Tampines
+1241,T30,TM,Tampines
+1242,T31,TM,Tampines
+1243,T79,TM,Tampines
+1244,T81,TM,Tampines
+1245,TM15,TM,Tampines
+1246,TM16,TM,Tampines
+1247,TM44,TM,Tampines
+1248,Q17,QT,Queenstown
+1249,Q96,QT,Queenstown
+1250,HG74,HG,Hougang
+1251,B41,BD,Bedok
+1252,B43,BD,Bedok
+1253,B46,BD,Bedok
+1254,B49,BD,Bedok
+1255,B72,BD,Bedok
+1256,B73,BD,Bedok
+1257,B74,BD,Bedok
+1258,B7B,BD,Bedok
+1259,B83,BD,Bedok
+1260,B85,BD,Bedok
+1261,B94,BD,Bedok
+1262,B94A,BD,Bedok
+1263,B99M,BD,Bedok
+1264,CC1,BD,Bedok
+1265,CC10,BD,Bedok
+1266,CC11,BD,Bedok
+1267,CC4,BD,Bedok
+1268,CC8,BD,Bedok
+1269,CC9,BD,Bedok
+1270,PL10,PG,Punggol
+1271,PL11,PG,Punggol
+1272,PL28,PG,Punggol
+1273,BR4,NV,gay
+1274,Q75M,QT,Queenstown
+1275,C18A,CL,Clementi
+1276,C16,CL,Clementi
+1277,C18,CL,Clementi
+1278,AR2M,QT,Queenstown
+1279,AR7M,QT,Queenstown
+1280,W68,WD,Woodlands
+1281,BL15,JW,Jurong West
+1282,Q16,QT,Queenstown
+1283,T26,TM,Tampines
+1284,T27,TM,Tampines
+1285,T28,TM,Tampines
+1286,T29,TM,Tampines
+1287,TM8,TM,Tampines
+1288,PL47,PG,Punggol
+1289,PL49,PG,Punggol
+1290,J19,JE,Jurong East
+1291,J24,JE,Jurong East
+1292,J25,JE,Jurong East
+1293,J26,JE,Jurong East
+1294,J64,JE,Jurong East
+1295,B19,BD,Bedok
+1296,B44,BD,Bedok
+1297,SK27,SE,Sengkang
+1298,TE13,BM,Bukit Merah
+1299,SK96,SE,Sengkang
+1300,AR2L,QT,Queenstown
+1301,A10,AM,Ang Mo Kio
+1302,A8,AM,Ang Mo Kio
+1303,B95,BD,Bedok
+1304,B96,BD,Bedok
+1305,AV1,BM,Bukit Merah
+1306,H4,BM,Bukit Merah
+1307,H17,BM,Bukit Merah
+1308,H18,BM,Bukit Merah
+1309,Y16,YS,Yishun
+1310,Y16,YS,Yishun
+1311,S102,SE,Sengkang
+1312,BKE1,RC,gay
+1313,BKE9,RC,gay
+1314,Y17,YS,Yishun
+1315,Y17,YS,Yishun
+1316,JM16,JW,Jurong West
+1317,JM17,JW,Jurong West
+1318,SK67,SE,Sengkang
+1319,PL36,PG,Punggol
+1320,SK65,SE,Sengkang
+1321,SK64,SE,Sengkang
+1322,CR1,KL,Kallang/Whampoa
+1323,BBB,DT,gay
+1324,BM31,BM,Bukit Merah
+1325,CSM,OT,gay
+1326,FRM,KL,Kallang/Whampoa
+1327,GE1B,GL,Geylang
+1328,GE1C,GL,Geylang
+1329,GEM,GL,Geylang
+1330,HG15,HG,Hougang
+1331,HG16,HG,Hougang
+1332,HG25,HG,Hougang
+1333,HG37,HG,Hougang
+1334,HG38,HG,Hougang
+1335,HG45,HG,Hougang
+1336,HG46,HG,Hougang
+1337,HG88,HG,Hougang
+1338,HG9,HG,Hougang
+1339,HG9T,HG,Hougang
+1340,JCM,GL,Geylang
+1341,JCML,GL,Geylang
+1342,K10,GL,Geylang
+1343,KAM,OT,gay
+1344,KAML,OT,gay
+1345,KM1,GL,Geylang
+1346,MP14,MP,Marine Parade
+1347,MP15,MP,Marine Parade
+1348,MP16,MP,Marine Parade
+1349,MP19,MP,Marine Parade
+1350,PR3,PR,Pasir Ris
+1351,PR6,PR,Pasir Ris
+1352,PRM,OT,gay
+1353,SIM4,TM,Tampines
+1354,T55,TM,Tampines
+1355,TAM1,TM,Tampines
+1356,KE1,BD,Bedok
+1357,EI3,GL,Geylang
+1358,HR1,GL,Geylang
+1359,HR2,GL,Geylang
+1360,HR3,GL,Geylang
+1361,HR4,GL,Geylang
+1362,HR5,GL,Geylang
+1363,B24,BD,Bedok
+1364,B25,BD,Bedok
+1365,B69,BD,Bedok
+1366,T77,TM,Tampines
+1367,TAM2,TM,Tampines
+1368,BJ25,BP,Bukit Panjang
+1369,BJ26,BP,Bukit Panjang
+1370,BJ62,BP,Bukit Panjang
+1371,TWM2,CK,Choa Chu Kang
+1372,HG87,HG,Hougang
+1373,HG90,HG,Hougang
+1374,HG91,HG,Hougang
+1375,SD11,GL,Geylang
+1376,BRM,KL,Kallang/Whampoa
+1377,W94,WD,Woodlands
+1378,JM21,JW,Jurong West
+1379,JM24,JW,Jurong West
+1380,T43,TM,Tampines
+1381,T44,TM,Tampines
+1382,T45,TM,Tampines
+1383,T46,TM,Tampines
+1384,TM19,TM,Tampines
+1385,TM20,TM,Tampines
+1386,BR9,NV,gay
+1387,Q73,QT,Queenstown
+1388,Q70,QT,Queenstown
+1389,Q67,QT,Queenstown
+1390,J66,JW,Jurong West
+1391,J67,JW,Jurong West
+1392,J68M,JW,Jurong West
+1393,PP6,TP,Toa Payoh
+1394,SIM6,TM,Tampines
+1395,KJ1,KL,Kallang/Whampoa
+1396,KJ2,KL,Kallang/Whampoa
+1397,B26,BD,Bedok
+1398,B27,BD,Bedok
+1399,GMLM,QT,Queenstown
+1400,GM2,QT,Queenstown
+1401,GM3,QT,Queenstown
+1402,GM5,QT,Queenstown
+1403,GM2A,QT,Queenstown
+1404,GM6B,QT,Queenstown
+1405,KJM2,KL,Kallang/Whampoa
+1406,HVM,BM,Bukit Merah
+1407,T1,TM,Tampines
+1408,T3,TM,Tampines
+1409,T7,TM,Tampines
+1410,T8,TM,Tampines
+1411,KJ3,KL,Kallang/Whampoa
+1412,KJM1,KL,Kallang/Whampoa
+1413,KJ4,KL,Kallang/Whampoa
+1414,CVBK,KL,Kallang/Whampoa
+1415,BKRM,KL,Kallang/Whampoa
+1416,U52,BK,Bukit Batok
+1417,CK62,CK,Choa Chu Kang
+1418,CK63,CK,Choa Chu Kang
+1419,CK64,CK,Choa Chu Kang
+1420,P8,PG,Punggol
+1421,P9,PG,Punggol
+1422,PL53,PG,Punggol
+1423,RC2,NV,gay
+1424,RC3,NV,gay
+1425,SK66,SE,Sengkang
+1426,BRM1,NV,gay
+1427,Y36,YS,Yishun
+1428,Y36,YS,Yishun
+1429,CK11,CK,Choa Chu Kang
+1430,CK35,CK,Choa Chu Kang
+1431,K19,GL,Geylang
+1432,SK18,SE,Sengkang
+1433,J17,JE,Jurong East
+1434,J20,JE,Jurong East
+1435,HE9,BM,Bukit Merah
+1436,JM20,JW,Jurong West
+1437,PM24,PR,Pasir Ris
+1438,PM24,PR,Pasir Ris
+1439,PR14,PR,Pasir Ris
+1440,PR14,PR,Pasir Ris
+1441,BRM5,NV,gay
+1442,BRM6,NV,gay
+1443,H6,BM,Bukit Merah
+1444,P7,PG,Punggol
+1445,CK58,CK,Choa Chu Kang
+1446,W11,WD,Woodlands
+1447,W11M,WD,Woodlands
+1448,BJ13,BP,Bukit Panjang
+1449,C11,CL,Clementi
+1450,C29,CL,Clementi
+1451,C30,CL,Clementi
+1452,C31,CL,Clementi
+1453,C33,CL,Clementi
+1454,C34,CL,Clementi
+1455,C35,CL,Clementi
+1456,C36,CL,Clementi
+1457,C37,CL,Clementi
+1458,C38,CL,Clementi
+1459,CKM2,CK,Choa Chu Kang
+1460,CTM1,CL,Clementi
+1461,JMB2,BM,Bukit Merah
+1462,JMB3,BM,Bukit Merah
+1463,U11,BK,Bukit Batok
+1464,U11,BK,Bukit Batok
+1465,U7,BK,Bukit Batok
+1466,U8,BK,Bukit Batok
+1467,A49,AM,Ang Mo Kio
+1468,A76,AM,Ang Mo Kio
+1469,U50,BK,Bukit Batok
+1470,T57,TM,Tampines
+1471,T78,TM,Tampines
+1472,PM43,PR,Pasir Ris
+1473,PM43,PR,Pasir Ris
+1474,PM44,PR,Pasir Ris
+1475,PM44,PR,Pasir Ris
+1476,T73,TM,Tampines
+1477,BKE4,KL,Kallang/Whampoa
+1478,W69,WD,Woodlands
+1479,PL12,PG,Punggol
+1480,PL13,PG,Punggol
+1481,SK46,SE,Sengkang
+1482,SK47,SE,Sengkang
+1483,JSA1,JW,Jurong West
+1484,TJ39,JW,Jurong West
+1485,TM6,TM,Tampines
+1486,TM7,TM,Tampines
+1487,AR7L,QT,Queenstown
+1488,CK75,CK,Choa Chu Kang
+1489,CK76,CK,Choa Chu Kang
+1490,W70,WD,Woodlands
+1491,W74,WD,Woodlands
+1492,CK65,CK,Choa Chu Kang
+1493,SB1,SB,Sembawang
+1494,SB1,SB,Sembawang
+1495,SB6,SB,Sembawang
+1496,SB6,SB,Sembawang
+1497,TBM,BM,Bukit Merah
+1498,B81,BD,Bedok
+1499,B92,BD,Bedok
+1500,Y34,YS,Yishun
+1501,Y34,YS,Yishun
+1502,Y34A,YS,Yishun
+1503,Y34A,YS,Yishun
+1504,B67,BD,Bedok
+1505,T74,TM,Tampines
+1506,TM10,TM,Tampines
+1507,TM9,TM,Tampines
+1508,SE12,SG,Serangoon
+1509,CK70,CK,Choa Chu Kang
+1510,CK71,CK,Choa Chu Kang
+1511,CK77,CK,Choa Chu Kang
+1512,SK34,SE,Sengkang
+1513,SK34,SE,Sengkang
+1514,SK35,SE,Sengkang
+1515,SK35,SE,Sengkang
+1516,B21,BD,Bedok
+1517,W517,WD,Woodlands
+1518,TM33,TM,Tampines
+1519,TM34,TM,Tampines
+1520,B89,BD,Bedok
+1521,Q94,QT,Queenstown
+1522,W20,WD,Woodlands
+1523,Y40,YS,Yishun
+1524,Y40,YS,Yishun
+1525,A100,AM,Ang Mo Kio
+1526,A73,AM,Ang Mo Kio
+1527,A74,AM,Ang Mo Kio
+1528,Q66,QT,Queenstown
+1529,TM35,TM,Tampines
+1530,BL22,JW,Jurong West
+1531,JM32,JW,Jurong West
+1532,PL17,PG,Punggol
+1533,PL20,PG,Punggol
+1534,PL22,PG,Punggol
+1535,PL26,PG,Punggol
+1536,BLM,KL,Kallang/Whampoa
+1537,HG71,HG,Hougang
+1538,TM23,TM,Tampines
+1539,TM24,TM,Tampines
+1540,W108,WD,Woodlands
+1541,JM2,JW,Jurong West
+1542,JM3,JW,Jurong West
+1543,JM4,JW,Jurong West
+1544,JM11,JW,Jurong West
+1545,JM26,JW,Jurong West
+1546,JM27,JW,Jurong West
+1547,JSR2,JW,Jurong West
+1548,SK55,SE,Sengkang
+1549,UBM1,KL,Kallang/Whampoa
+1550,KB18,KL,Kallang/Whampoa
+1551,KB20,KL,Kallang/Whampoa
+1552,W578,WD,Woodlands
+1553,W579,WD,Woodlands
+1554,Y45M,YS,Yishun
+1555,HG42,HG,Hougang
+1556,KE2,BD,Bedok
+1557,KE4,BD,Bedok
+1558,BJ29,BP,Bukit Panjang
+1559,T72,TM,Tampines
+1560,A4,AM,Ang Mo Kio
+1561,A24,AM,Ang Mo Kio
+1562,GEML,GL,Geylang
+1563,W509,WD,Woodlands
+1564,W516,WD,Woodlands
+1565,HG1B,HG,Hougang
+1566,BJ24,BP,Bukit Panjang
+1567,BJ27,BP,Bukit Panjang
+1568,B11,BD,Bedok
+1569,W86,WD,Woodlands
+1570,W89,WD,Woodlands
+1571,BJ66,BP,Bukit Panjang
+1572,BJ67,BP,Bukit Panjang
+1573,TB18,BM,Bukit Merah
+1574,TM48,TM,Tampines
+1575,AR1L,QT,Queenstown
+1576,PL56,PG,Punggol
+1577,PL60,PG,Punggol
+1578,B50,BD,Bedok
+1579,W71,WD,Woodlands
+1580,PL61,PG,Punggol
+1581,PM21,PR,Pasir Ris
+1582,Y43,YS,Yishun
+1583,Y43,YS,Yishun
+1584,B54,BD,Bedok
+1585,B91,BD,Bedok
+1586,B57,BD,Bedok
+1587,TJ35,JW,Jurong West
+1588,TJ38,JW,Jurong West
+1589,BL17,JW,Jurong West
+1590,P13,JE,Jurong East
+1591,PL66,PG,Punggol
+1592,HG12,HG,Hougang
+1593,HG13,HG,Hougang
+1594,HG14,HG,Hougang
+1595,DWSV,QT,Queenstown
+1596,T48,TM,Tampines
+1597,TM45,TM,Tampines
+1598,B40,BD,Bedok
+1599,W527,WD,Woodlands
+1600,W536,WD,Woodlands
+1601,T76,TM,Tampines
+1602,KE3,BD,Bedok
+1603,W676,WD,Woodlands
+1604,PR2,PR,Pasir Ris
+1605,PR2,PR,Pasir Ris
+1606,Y25,YS,Yishun
+1607,Y25M,YS,Yishun
+1608,HG34,HG,Hougang
+1609,B79,BD,Bedok
+1610,HG35,HG,Hougang
+1611,SE37,SG,Serangoon
+1612,SE42,SG,Serangoon
+1613,SE43,SG,Serangoon
+1614,PL54,PG,Punggol
+1615,PL55,PG,Punggol
+1616,PL62,PG,Punggol
+1617,KU2,GL,Geylang
+1618,KU3,GL,Geylang
+1619,KU4,GL,Geylang
+1620,KU1,GL,Geylang
+1621,KU9,GL,Geylang
+1622,BR11,NV,gay
+1623,BR12,NV,gay
+1624,HG24,HG,Hougang
+1625,HG29,HG,Hougang
+1626,CR6,KL,Kallang/Whampoa
+1627,SB17,SB,Sembawang
+1628,SB20,SB,Sembawang
+1629,SB25,SB,Sembawang
+1630,SB32,SB,Sembawang
+1631,KE3M,BD,Bedok
+1632,BL23,JW,Jurong West
+1633,TM50,TM,Tampines
+1634,PL57,PG,Punggol
+1635,PL58,PG,Punggol
+1636,SD1,GL,Geylang
+1637,PR10,PR,Pasir Ris
+1638,PR10,PR,Pasir Ris
+1639,PM20,PR,Pasir Ris
+1640,PM20,PR,Pasir Ris
+1641,P16,JE,Jurong East
+1642,T12,TM,Tampines
+1643,T13,TM,Tampines
+1644,CAM,QT,Queenstown
+1645,CKM7,CK,Choa Chu Kang
+1646,CKM8,CK,Choa Chu Kang
+1647,HG1C,HG,Hougang
+1648,W56,WD,Woodlands
+1649,W889,WD,Woodlands
+1650,W887,WD,Woodlands
+1651,MNM,KL,Kallang/Whampoa
+1652,MNM,KL,Kallang/Whampoa
+1653,T25,TM,Tampines
+1654,W505,WD,Woodlands
+1655,PM15,PR,Pasir Ris
+1656,A59,AM,Ang Mo Kio
+1657,BJ21,BP,Bukit Panjang
+1658,BJ63,BP,Bukit Panjang
+1659,PM4,PR,Pasir Ris
+1660,PM5,PR,Pasir Ris
+1661,PM2,PR,Pasir Ris
+1662,PM9,PR,Pasir Ris
+1663,PRS1,PR,Pasir Ris
+1664,W76,WD,Woodlands
+1665,W77,WD,Woodlands
+1666,W78,WD,Woodlands
+1667,PM22,PR,Pasir Ris
+1668,PR12,PR,Pasir Ris
+1669,DWST,QT,Queenstown
+1670,Y51,YS,Yishun
+1671,Y51M,YS,Yishun
+1672,Y53M,YS,Yishun
+1673,Y59M,YS,Yishun
+1674,Y60M,YS,Yishun
+1675,Y61M,YS,Yishun
+1676,T24,TM,Tampines
+1677,A7,AM,Ang Mo Kio
+1678,A36,AM,Ang Mo Kio
+1679,A47,AM,Ang Mo Kio
+1680,PM35,PR,Pasir Ris
+1681,PM35,PR,Pasir Ris
+1682,P14,JE,Jurong East
+1683,P15,JE,Jurong East
+1684,P17,JE,Jurong East
+1685,T11,TM,Tampines
+1686,T9,TM,Tampines
+1687,C21L,CL,Clementi
+1688,A51,AM,Ang Mo Kio
+1689,AM19,AM,Ang Mo Kio
+1690,W8M,WD,Woodlands
+1691,CK14,CK,Choa Chu Kang
+1692,SMM,QT,Queenstown
+1693,W103,WD,Woodlands
+1694,W109,WD,Woodlands
+1695,W75,WD,Woodlands
+1696,W53,WD,Woodlands
+1697,W72,WD,Woodlands
+1698,W73,WD,Woodlands
+1699,T49,TM,Tampines
+1700,T49A,TM,Tampines
+1701,PR4,PR,Pasir Ris
+1702,PR4,PR,Pasir Ris
+1703,TBC2,BM,Bukit Merah
+1704,Y32,YS,Yishun
+1705,Y32,YS,Yishun
+1706,Y31,YS,Yishun
+1707,Y31,YS,Yishun
+1708,BJ19,BP,Bukit Panjang
+1709,CK15,CK,Choa Chu Kang
+1710,CK6,CK,Choa Chu Kang
+1711,CK6A,CK,Choa Chu Kang
+1712,P11,JE,Jurong East
+1713,PM46,PR,Pasir Ris
+1714,PM46,PR,Pasir Ris
+1715,HG1A,HG,Hougang
+1716,HG36,HG,Hougang
+1717,HG53,HG,Hougang
+1718,HG56,HG,Hougang
+1719,HG80,HG,Hougang
+1720,Y68M,YS,Yishun
+1721,Y68M,YS,Yishun
+1722,Y68L,YS,Yishun
+1723,Y68L,YS,Yishun
+1724,W90,WD,Woodlands
+1725,W91,WD,Woodlands
+1726,DRM1,BM,Bukit Merah
+1727,DRM3,BM,Bukit Merah
+1728,DRM4,BM,Bukit Merah
+1729,DRM5,BM,Bukit Merah
+1730,DRS,BM,Bukit Merah
+1731,BJ20,BP,Bukit Panjang
+1732,BJ68,BP,Bukit Panjang
+1733,DRM2,BM,Bukit Merah
+1734,TM51,TM,Tampines
+1735,W67,WD,Woodlands
+1736,W717,WD,Woodlands
+1737,SI13,TM,Tampines
+1738,Y63M,YS,Yishun
+1739,Y63M,YS,Yishun
+1740,Y64M,YS,Yishun
+1741,Y64M,YS,Yishun
+1742,A21,AM,Ang Mo Kio
+1743,A29,AM,Ang Mo Kio
+1744,A63,AM,Ang Mo Kio
+1745,A88,AM,Ang Mo Kio
+1746,SB10,SB,Sembawang
+1747,SB10,SB,Sembawang
+1748,SB11,SB,Sembawang
+1749,SB11,SB,Sembawang
+1750,SB13,SB,Sembawang
+1751,SB13,SB,Sembawang
+1752,SB12,SB,Sembawang
+1753,SB12,SB,Sembawang
+1754,W65,WD,Woodlands
+1755,W66,WD,Woodlands
+1756,T38,TM,Tampines
+1757,T39,TM,Tampines
+1758,TM41,TM,Tampines
+1759,W83,WD,Woodlands
+1760,W84,WD,Woodlands
+1761,CK18,CK,Choa Chu Kang
+1762,SE51,SG,Serangoon
+1763,HG33,HG,Hougang
+1764,A77,AM,Ang Mo Kio
+1765,A78,AM,Ang Mo Kio
+1766,SB7,SB,Sembawang
+1767,SB7,SB,Sembawang
+1768,SB8,SB,Sembawang
+1769,SB8,SB,Sembawang
+1770,SB9,SB,Sembawang
+1771,SB9,SB,Sembawang
+1772,W41,WD,Woodlands
+1773,W55,WD,Woodlands
+1774,Y29,YS,Yishun
+1775,Y29,YS,Yishun
+1776,BE34,BS,Bishan
+1777,BE35,BS,Bishan
+1778,Y65M,YS,Yishun
+1779,Y65M,YS,Yishun
+1780,Y66M,YS,Yishun
+1781,Y66M,YS,Yishun
+1782,BJ58,BP,Bukit Panjang
+1783,W98,WD,Woodlands
+1784,W61,WD,Woodlands
+1785,TM47,TM,Tampines
+1786,T7A,TM,Tampines
+1787,B23M,BD,Bedok
+1788,A13,AM,Ang Mo Kio
+1789,SH1,BS,Bishan
+1790,BJ50,BP,Bukit Panjang
+1791,BJ53,BP,Bukit Panjang
+1792,BJ54,BP,Bukit Panjang
+1793,H93L,HG,Hougang
+1794,HG93,HG,Hougang
+1795,HG98,HG,Hougang
+1796,BJ61,BP,Bukit Panjang
+1797,CKM4,CK,Choa Chu Kang
+1798,CK74,CK,Choa Chu Kang
+1799,CK78,CK,Choa Chu Kang
+1800,KJML,KL,Kallang/Whampoa
+1801,C29A,CL,Clementi
+1802,CLRG,CL,Clementi
+1803,CLTR,CL,Clementi
+1804,BE18,BS,Bishan
+1805,BE44,BS,Bishan
+1806,GM1M,QT,Queenstown
+1807,CK1,CK,Choa Chu Kang
+1808,Y14,YS,Yishun
+1809,Y14,YS,Yishun
+1810,SK1,SE,Sengkang
+1811,SK8,SE,Sengkang
+1812,SK61,SE,Sengkang
+1813,BRM7,NV,gay
+1814,TPMR,TP,Toa Payoh
+1815,Y1,YS,Yishun
+1816,Y2,YS,Yishun
+1817,Y54M,YS,Yishun
+1818,UBM2,KL,Kallang/Whampoa
+1819,BL8L,JW,Jurong West
+1820,BL8L,JW,Jurong West
+1821,Y30M,YS,Yishun
+1822,TPMQ,TP,Toa Payoh
+1823,SK82,SE,Sengkang
+1824,SK82,SE,Sengkang
+1825,SK84,SE,Sengkang
+1826,SK84,SE,Sengkang
+1827,S103,SE,Sengkang
+1828,SK76,SE,Sengkang
+1829,SK79,SE,Sengkang
+1830,KAS,OT,gay
+1831,SLS,OT,gay
+1832,U60,BK,Bukit Batok
+1833,U58,BK,Bukit Batok
+1834,TW4,CK,Choa Chu Kang
+1835,BE19,BS,Bishan
+1836,BE22,BS,Bishan
+1837,PL71,PG,Punggol
+1838,S107,SE,Sengkang
+1839,U55,BK,Bukit Batok
+1840,W96,WD,Woodlands
+1841,W25,WD,Woodlands
+1842,Y45,YS,Yishun
+1843,Y46,YS,Yishun
+1844,J47,JW,Jurong West
+1845,AM43,AM,Ang Mo Kio
+1846,BJ4,BP,Bukit Panjang
+1847,BJ8,BP,Bukit Panjang
+1848,CK66,CK,Choa Chu Kang
+1849,J35,JW,Jurong West
+1850,CKM5,CK,Choa Chu Kang
+1851,CKM6,CK,Choa Chu Kang
+1852,GM6A,QT,Queenstown
+1853,SB41,SB,Sembawang
+1854,W785,WD,Woodlands
+1855,CK72,CK,Choa Chu Kang
+1856,U56,BK,Bukit Batok
+1857,S109,SE,Sengkang
+1858,S110,SE,Sengkang
+1859,BTM3,BM,Bukit Merah
+1860,U57,BK,Bukit Batok
+1861,CKM3,CK,Choa Chu Kang
+1862,W783,WD,Woodlands
+1863,TGM4,JE,Jurong East
+1864,Y69M,YS,Yishun
+1865,Y70M,YS,Yishun
+1866,Y71M,YS,Yishun
+1867,SE9,SG,Serangoon
+1868,BJ60,BP,Bukit Panjang
+1869,C15M,CL,Clementi
+1870,HG3B,HG,Hougang
+1871,HG3D,HG,Hougang
+1872,CK9A,CK,Choa Chu Kang
+1873,SGTM,KL,Kallang/Whampoa
+1874,TPL,OT,gay
+1875,J5,JE,Jurong East
+1876,S108,SE,Sengkang
+1877,SK98,SE,Sengkang
+1878,S106,SE,Sengkang
+1879,BJ57,BP,Bukit Panjang
+1880,S104,SE,Sengkang
+1881,S105,SE,Sengkang
+1882,SK99,SE,Sengkang
+1883,BM10,BM,Bukit Merah
+1884,BM13,BM,Bukit Merah
+1885,PL75,PG,Punggol
+1886,PL78,PG,Punggol
+1887,PL77,PG,Punggol
+1888,TJ41,JW,Jurong West
+1889,J49M,JW,Jurong West
+1890,TJ42,JW,Jurong West
+1891,CK73,CK,Choa Chu Kang
+1892,U64,BK,Bukit Batok
+1893,W691,WD,Woodlands
+1894,W693,WD,Woodlands
+1895,W694,WD,Woodlands
+1896,SB37,SB,Sembawang
+1897,SB39,SB,Sembawang
+1898,SB36,SB,Sembawang
+1899,SB38,SB,Sembawang
+1900,SB40,SB,Sembawang
+1901,Y77L,YS,Yishun
+1902,Y77M,YS,Yishun
+1903,Y78M,YS,Yishun
+1904,A33,AM,Ang Mo Kio
+1905,AM64,AM,Ang Mo Kio
+1906,S100,SE,Sengkang
+1907,PL70,PG,Punggol
+1908,HG2A,HG,Hougang
+1909,HG2C,HG,Hougang
+1910,HRM,BM,Bukit Merah
+1911,MM6,GL,Geylang
+1912,TM52,TM,Tampines
+1913,HG2D,HG,Hougang
+1914,J44,JW,Jurong West
+1915,U66,BK,Bukit Batok
+1916,U65,BK,Bukit Batok
+1917,W182,WD,Woodlands
+1918,W185,WD,Woodlands
+1919,Y73M,YS,Yishun
+1920,Y74M,YS,Yishun
+1921,Y75M,YS,Yishun
+1922,Y76M,YS,Yishun
+1923,SB42,SB,Sembawang
+1924,S36L,SB,Sembawang
+1925,S38L,SB,Sembawang
+1926,S40L,SB,Sembawang
+1927,U63,BK,Bukit Batok
+1928,B44B,BD,Bedok
+1929,C28M,CL,Clementi
+1930,TWM4,CK,Choa Chu Kang
+1931,U54,BK,Bukit Batok
+1932,J8M,JE,Jurong East
+1933,Y35,YS,Yishun
+1934,W100,WD,Woodlands
+1935,W546,WD,Woodlands
+1936,BA1,TP,Toa Payoh
+1937,U68,BK,Bukit Batok
+1938,SB35,SB,Sembawang
+1939,J29,JW,Jurong West
+1940,J74M,JW,Jurong West
+1941,NT3,TM,Tampines
+1942,TM53,TM,Tampines
+1943,T47,TM,Tampines
+1944,T47A,TM,Tampines
+1945,TBL,BM,Bukit Merah
+1946,TBM8,BM,Bukit Merah
+1947,C3ML,CL,Clementi
+1948,BA2,TP,Toa Payoh
+1949,K52,GL,Geylang
+1950,W574,WD,Woodlands
+1951,SE52,SG,Serangoon
+1952,S111,SE,Sengkang
+1953,SK52,SE,Sengkang
+1954,TM46,TM,Tampines
+1955,NT1,TM,Tampines
+1956,NT2,TM,Tampines
+1957,NTL,TM,Tampines
+1958,JS3L,JW,Jurong West
+1959,SB44,SB,Sembawang
+1960,NT4,TM,Tampines
+1961,DWVT,QT,Queenstown
+1962,SE5L,SG,Serangoon
+1963,HG18,HG,Hougang
+1964,P12,JE,Jurong East
+1965,BA3,TP,Toa Payoh
+1966,SK97,SE,Sengkang
+1967,S113,SE,Sengkang
+1968,S13L,SE,Sengkang
+1969,S14L,SE,Sengkang
+1970,B10M,BD,Bedok
+1971,PDQ5,QT,Queenstown
+1972,SAM,QT,Queenstown
+1973,PD8W,WD,Woodlands
+1974,PDC4,CK,Choa Chu Kang
+1975,PDJ3,JW,Jurong West
+1976,PDJ7,JW,Jurong West
+1977,PDP4,BP,Bukit Panjang
+1978,PDW5,WD,Woodlands
+1979,PDW8,WD,Woodlands
+1980,JS4L,JW,Jurong West
+1981,SB45,SB,Sembawang
+1982,SB46,SB,Sembawang
+1983,C19M,CL,Clementi
+1984,B98,BD,Bedok
+1985,U70,BK,Bukit Batok
+1986,SB43,SB,Sembawang
+1987,Q41,QT,Queenstown
+1988,SK53,SE,Sengkang
+1989,CKT2,CK,Choa Chu Kang
+1990,TM54,TM,Tampines
+1991,JS5L,JW,Jurong West
+1992,TRM,KL,Kallang/Whampoa
+1993,S39L,SG,Serangoon
+1994,HG3L,HG,Hougang
+1995,HG3E,HG,Hougang
+1996,HG1,HG,Hougang
+1997,AM14,AM,Ang Mo Kio
+1998,CR1A,KL,Kallang/Whampoa
+1999,CR1B,KL,Kallang/Whampoa
+2000,U69,BK,Bukit Batok
+2001,B48B,BD,Bedok
+2002,TM55,TM,Tampines
+2003,T58,TM,Tampines
+2004,HG1E,HG,Hougang
+2005,BJAL,BP,Bukit Panjang
+2006,DWSP,QT,Queenstown
+2007,Y82M,YS,Yishun
